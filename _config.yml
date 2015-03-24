@@ -16,3 +16,5 @@ highlighter:      true
 # Permalinks
 permalink:        pretty
 
+baseurl: http://bertrandkeller.github.io/hackdesk/
+
