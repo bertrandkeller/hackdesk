@@ -11,7 +11,7 @@ tagline: étudie des méthodes de vie en groupe basées sur l'entretien d'un éc
 paginate: 2
 
 # Dependencies
-pygments:         true
+highlighter:      true
 
 # Permalinks
 permalink:        pretty
