@@ -3,13 +3,13 @@ title: Table en palette bicolore
 layout: post
 ---
 
-[!["table palette bicolore"](/images/post-table-palette-billet-1.jpg)](/images/post-table-palette-billet-1.jpg)
-[!["table palette bicolore"](/images/post-table-palette-billet-2.jpg)](/images/post-table-palette-billet-2.jpg)
-[!["table palette bicolore"](/images/post-table-palette-billet-3.jpg)](/images/post-table-palette-billet-3.jpg)
-[!["table palette bicolore"](/images/post-table-palette-billet-4.jpg)](/images/post-table-palette-billet-4.jpg)
-[!["table palette bicolore"](/images/post-table-palette-billet-5.jpg)](/images/post-table-palette-billet-5.jpg)
-[!["table palette bicolore"](/images/post-table-palette-billet-6.jpg)](/images/post-table-palette-billet-6.jpg)
-[!["table palette bicolore"](/images/post-table-palette-billet-7.jpg)](/images/post-table-palette-billet-7.jpg)
+[!["table palette bicolore"]({{ site.baseurl }}/images/post-table-palette-billet-1.jpg)](/images/post-table-palette-billet-1.jpg)
+[!["table palette bicolore"]({{ site.baseurl }}/images/post-table-palette-billet-2.jpg)](/images/post-table-palette-billet-2.jpg)
+[!["table palette bicolore"]({{ site.baseurl }}/images/post-table-palette-billet-3.jpg)](/images/post-table-palette-billet-3.jpg)
+[!["table palette bicolore"]({{ site.baseurl }}/images/post-table-palette-billet-4.jpg)](/images/post-table-palette-billet-4.jpg)
+[!["table palette bicolore"]({{ site.baseurl }}/images/post-table-palette-billet-5.jpg)](/images/post-table-palette-billet-5.jpg)
+[!["table palette bicolore"]({{ site.baseurl }}/images/post-table-palette-billet-6.jpg)](/images/post-table-palette-billet-6.jpg)
+[!["table palette bicolore"]({{ site.baseurl }}/images/post-table-palette-billet-7.jpg)](/images/post-table-palette-billet-7.jpg)
 
 ##Ressources##
 

@@ -5,10 +5,10 @@ layout: post
 
 La réalisation de ces tables d'une hauteur de 1120mm a été optimisé par l'achat de matériel pour 2 tables. Les dimensions de la tablette intermédiaire et ses traverses ont été calculées de manière à baisser le total au maximum.
 
-[![tables debout non lasurées](/images/post-tables-2-debouts-1.jpg)](/images/post-tables-2-debouts-1.jpg)
-[![tables debout non lasurées](/images/post-tables-2-debouts-2.jpg)](/images/post-tables-2-debouts-2.jpg)
-[![tables debout non lasurées](/images/post-tables-2-debouts-3.jpg)](/images/post-tables-2-debouts-3.jpg)
-[![tables debout non lasurées](/images/post-tables-2-debouts-4.jpg)](/images/post-tables-2-debouts-4.jpg)
+[![tables debout non lasurées]({{ site.baseurl }}/images/post-tables-2-debouts-1.jpg)](/images/post-tables-2-debouts-1.jpg)
+[![tables debout non lasurées]({{ site.baseurl }}/images/post-tables-2-debouts-2.jpg)](/images/post-tables-2-debouts-2.jpg)
+[![tables debout non lasurées]({{ site.baseurl }}/images/post-tables-2-debouts-3.jpg)](/images/post-tables-2-debouts-3.jpg)
+[![tables debout non lasurées]({{ site.baseurl }}/images/post-tables-2-debouts-4.jpg)](/images/post-tables-2-debouts-4.jpg)
 
 ##Ressources##
 

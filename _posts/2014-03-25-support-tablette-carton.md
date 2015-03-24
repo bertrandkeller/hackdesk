@@ -6,7 +6,7 @@ layout: post
 
 Ce support en carton permet de faire reposer une tablette de la taille de son choix afin de pouvoir l'incliner et la disposer à côté de son ordinateur de travail.
 
-[![support de tablette en carton](/images/post-support-carton-tablette.jpg)](/images/post-support-carton-tablette.jpg)
+[![support de tablette en carton]({{ site.baseurl }}/images/post-support-carton-tablette.jpg)](/images/post-support-carton-tablette.jpg)
 
 ##Ressources##
 
