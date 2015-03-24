@@ -1,0 +1,6 @@
+sitemap.xml
+.include_tree
+.spinto_data
+.phantomas
+.sass-cache
+_site

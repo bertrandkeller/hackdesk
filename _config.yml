@@ -1,0 +1,18 @@
+# This sets a blank configuation. See:
+#
+# https://github.com/mojombo/jekyll/wiki/configuration
+#
+# For more details about configuring Jekyll.
+#
+exclude: [".rvmrc",".rbenv-version","Rakefile","Gemfile","Gemfile.lock","changelog.md","README.md",'sass','watch.sh','node_modules','Gruntfile.js', 'package.json'] # files to exclude
+title: "hackdesk"
+tagline: étudie des méthodes de vie en groupe basées sur l'entretien d'un écosystème participant au bien-être.
+
+paginate: 2
+
+# Dependencies
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
