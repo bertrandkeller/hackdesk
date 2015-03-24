@@ -5,12 +5,12 @@ layout: post
 
 Je voulais construire un surélévateur pour écran en bois de récupération. J'ai eu la chance de trouver des bouts de bois déjà découpés et cloués dans la rue.
 
-[![mini tables en bois de récupération]({{ site.baseurl }}/images/post-table-mini-recup-1.jpg)](/images/post-table-mini-recup-1.jpg)
-[![mini tables en bois de récupération]({{ site.baseurl }}/images/post-table-mini-recup-2.jpg)](/images/post-table-mini-recup-2.jpg)
-[![mini tables en bois de récupération]({{ site.baseurl }}/images/post-table-mini-recup-3.jpg)](/images/post-table-mini-recup-3.jpg)
-[![mini tables en bois de récupération]({{ site.baseurl }}/images/post-table-mini-recup-4.jpg)](/images/post-table-mini-recup-4.jpg)
-[![mini tables en bois de récupération]({{ site.baseurl }}/images/post-table-mini-recup-5.jpg)](/images/post-table-mini-recup-5.jpg)
-[![mini tables en bois de récupération]({{ site.baseurl }}/images/post-table-mini-recup-6.jpg)](/images/post-table-mini-recup-6.jpg)
+[![mini tables en bois de récupération]({{ site.baseurl }}/images/post-table-mini-recup-1.jpg)]({{ site.baseurl }}/images/post-table-mini-recup-1.jpg)
+[![mini tables en bois de récupération]({{ site.baseurl }}/images/post-table-mini-recup-2.jpg)]({{ site.baseurl }}/images/post-table-mini-recup-2.jpg)
+[![mini tables en bois de récupération]({{ site.baseurl }}/images/post-table-mini-recup-3.jpg)]({{ site.baseurl }}/images/post-table-mini-recup-3.jpg)
+[![mini tables en bois de récupération]({{ site.baseurl }}/images/post-table-mini-recup-4.jpg)]({{ site.baseurl }}/images/post-table-mini-recup-4.jpg)
+[![mini tables en bois de récupération]({{ site.baseurl }}/images/post-table-mini-recup-5.jpg)]({{ site.baseurl }}/images/post-table-mini-recup-5.jpg)
+[![mini tables en bois de récupération]({{ site.baseurl }}/images/post-table-mini-recup-6.jpg)]({{ site.baseurl }}/images/post-table-mini-recup-6.jpg)
 
 
 ##Matériel##

@@ -7,14 +7,14 @@ La réalisation de ce support n'est pas documentée sur le web. L'idée est venu
 Ces cagettes sont moins profondes et présentent un cadre plutôt rigide, je me suis dit qu'avec un léger tasseau on pouvait réaliser le support pour les périphériques.
 Finalement, c'est en voyant les coins, de section triangulaire, des cagettes traditionnelles que l'idée a avancé.  
 
-[![support cagette fourniture]({{ site.baseurl }}/images/post-support-multitablettes-cagette-1.jpg)](/images/post-support-multitablettes-cagette-1.jpg)
-[![support cagette fourniture]({{ site.baseurl }}/images/post-support-multitablettes-cagette-2.jpg)](/images/post-support-multitablettes-cagette-2.jpg)
-[![support cagette charnière]({{ site.baseurl }}/images/post-support-multitablettes-cagette-4.jpg)](/images/post-support-multitablettes-cagette-4.jpg)
-[![support cagette charnière]({{ site.baseurl }}/images/post-support-multitablettes-cagette-5.jpg)](/images/post-support-multitablettes-cagette-5.jpg)
-[![support cagette charnière]({{ site.baseurl }}/images/post-support-multitablettes-cagette-6.jpg)](/images/post-support-multitablettes-cagette-6.jpg)
-[![support cagette charnière]({{ site.baseurl }}/images/post-support-multitablettes-cagette-8.jpg)](/images/post-support-multitablettes-cagette-8.jpg)
-[![support cagette résultat]({{ site.baseurl }}/images/post-support-multitablettes-cagette-3.jpg)](/images/post-support-multitablettes-cagette-3.jpg)
-[![support cagette résultat]({{ site.baseurl }}/images/post-support-multitablettes-cagette-final.jpg)](/images/post-support-multitablettes-cagette-final.jpg)
+[![support cagette fourniture]({{ site.baseurl }}/images/post-support-multitablettes-cagette-1.jpg)]({{ site.baseurl }}/images/post-support-multitablettes-cagette-1.jpg)
+[![support cagette fourniture]({{ site.baseurl }}/images/post-support-multitablettes-cagette-2.jpg)]({{ site.baseurl }}/images/post-support-multitablettes-cagette-2.jpg)
+[![support cagette charnière]({{ site.baseurl }}/images/post-support-multitablettes-cagette-4.jpg)]({{ site.baseurl }}/images/post-support-multitablettes-cagette-4.jpg)
+[![support cagette charnière]({{ site.baseurl }}/images/post-support-multitablettes-cagette-5.jpg)]({{ site.baseurl }}/images/post-support-multitablettes-cagette-5.jpg)
+[![support cagette charnière]({{ site.baseurl }}/images/post-support-multitablettes-cagette-6.jpg)]({{ site.baseurl }}/images/post-support-multitablettes-cagette-6.jpg)
+[![support cagette charnière]({{ site.baseurl }}/images/post-support-multitablettes-cagette-8.jpg)]({{ site.baseurl }}/images/post-support-multitablettes-cagette-8.jpg)
+[![support cagette résultat]({{ site.baseurl }}/images/post-support-multitablettes-cagette-3.jpg)]({{ site.baseurl }}/images/post-support-multitablettes-cagette-3.jpg)
+[![support cagette résultat]({{ site.baseurl }}/images/post-support-multitablettes-cagette-final.jpg)]({{ site.baseurl }}/images/post-support-multitablettes-cagette-final.jpg)
 
 ##Matériel##
 

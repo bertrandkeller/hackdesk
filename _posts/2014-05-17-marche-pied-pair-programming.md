@@ -7,9 +7,9 @@ Marche-pied construit dans le cadre de l'atelier DIY de la conférence [Sudweb 2
 
 Devant parfois coder ensemble devant un unique écran, nous sommes gênés par nos différences de tailles qui incommodent l'un ou l'autre d'entre nous en fonction du bureau de travail choisi. La solution serait d'avoir un marche-pied permettant de se retrouver à la même hauteur.
 
-[![Marche pied pour revue de code sur Standing Desk]({{ site.baseurl }}/images/post-sudweb-marchepied-01.jpg)](/images/post-sudweb-marchepied-01.jpg)
-[![Marche pied pour revue de code sur Standing Desk]({{ site.baseurl }}/images/post-sudweb-marchepied-02.jpg)](/images/post-sudweb-marchepied-02.jpg)
-[![Marche pied pour revue de code sur Standing Desk]({{ site.baseurl }}/images/post-sudweb-marchepied-03.jpg)](/images/post-sudweb-marchepied-03.jpg)
+[![Marche pied pour revue de code sur Standing Desk]({{ site.baseurl }}/images/post-sudweb-marchepied-01.jpg)]({{ site.baseurl }}/images/post-sudweb-marchepied-01.jpg)
+[![Marche pied pour revue de code sur Standing Desk]({{ site.baseurl }}/images/post-sudweb-marchepied-02.jpg)]({{ site.baseurl }}/images/post-sudweb-marchepied-02.jpg)
+[![Marche pied pour revue de code sur Standing Desk]({{ site.baseurl }}/images/post-sudweb-marchepied-03.jpg)]({{ site.baseurl }}/images/post-sudweb-marchepied-03.jpg)
 
 ##Concepteurs et bricoleurs##
 
